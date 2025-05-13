@@ -2,7 +2,6 @@
 layout: page
 title: VoiceVideo-Manipulator
 description:  The project aims to develop a robotic manipulator system equipped with both video input capabilities and speech recognition for accepting spoken commands. This system will enable users to control the robotic manipulator intuitively through verbal instructions and visual feedback.
-importance: 1
 ---
 
 | Project Domains                                                 | Mentors                                    | Project Difficulty |

@@ -2,7 +2,6 @@
 layout: page
 title: Vision Transformers From Scratch
 description: Implementing a Vision Transformers Model From Scratch
-importance: 1
 ---
 
 | Project Domains                                           | Mentors     | Project Difficulty |

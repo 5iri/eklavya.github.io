@@ -2,7 +2,6 @@
 layout: page
 title: GyroGlider
 description: Implementing Self Balancing on SRA's latest morphable bot-EvoBorne in a semi-drone mode. 
-importance: 1
 ---
 
 | Project Domains                                                 | Mentors                                    | Project Difficulty |

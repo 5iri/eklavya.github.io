@@ -2,7 +2,6 @@
 layout: page
 title: Video Card on FPGA
 description: Design a video card used in computers on a FPGA
-importance: 1
 ---
 
 | Project Domains                              | Mentors                         | Project Difficulty |

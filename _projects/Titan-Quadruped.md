@@ -2,7 +2,6 @@
 layout: page
 title: Titan-Quadruped
 description: Making VJTI's first Quadruped from scratch
-importance: 1
 ---
 
 | Project Domains                                                 | Mentors                                    | Project Difficulty |

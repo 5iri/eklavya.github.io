@@ -2,7 +2,6 @@
 layout: page
 title: Raytracer from Scratch
 description: Write a Raytracer for a scene developed in OpenGL and optimize it using CUDA
-importance: 1
 ---
 
 | Project Domains                              | Mentors                         | Project Difficulty |

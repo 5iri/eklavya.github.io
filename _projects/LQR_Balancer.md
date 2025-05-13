@@ -2,7 +2,6 @@
 layout: page
 title: LQR Balancer
 description: Self-balancing Wall-E using LQR
-importance: 1
 ---
 
 | Project Domains                                                 | Mentors                                    | Project Difficulty |

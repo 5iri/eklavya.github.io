@@ -2,7 +2,6 @@
 layout: page
 title: CONVOLUTIONS ON FPGA 
 description: To perform convolution for NxN image and futher applications on image processing on FPGA
-importance: 1
 ---
 
 | Project Domains                              | Mentors                         | Project Difficulty |

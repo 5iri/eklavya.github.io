@@ -94,6 +94,10 @@ blockquote {
     color: var(--global-text-color);
   }
 
+  .card-text {
+    color: var(--global-text-color);
+  }
+
   .card-item {
     width: auto;
     margin-bottom: 10px;
@@ -996,3 +1000,4 @@ nav[data-toggle="toc"] {
     }
   }
 }
+

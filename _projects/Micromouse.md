@@ -2,7 +2,6 @@
 layout: page
 title: Micromouse
 description: Design a micromouse PCB from scratch and implement maze floodfill algorithms on it!
-importance: 1
 ---
 
 | Project Domains                                                           | Mentors                      | Project Difficulty |

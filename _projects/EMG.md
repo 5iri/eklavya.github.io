@@ -2,7 +2,6 @@
 layout: page
 title: EMG-Armband
 description: Design a EMG Armband with Esp-32 and implement ML model on it to detect Hand Movements
-importance: 1
 ---
 
 | Project Domains                                                           | Mentors                                | Project Difficulty |
